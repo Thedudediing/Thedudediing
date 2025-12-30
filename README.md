@@ -1,8 +1,8 @@
 # Hi, I’m Diing Juach 👋
 
-A Computer Systems student focused on building **Clean, Scalable, and Production-Ready systems**.
+A Computer Systems student focused on building **Secure, Scalable, and Production-Ready systems**.
 
-I work across **Full-stack development, Cybersecurity, Cloud computing, and FinTech**, with a focus on scalable and secure systems.
+I work across **Full-stack development, Cybersecurity, Cloud computing, and FinTech**.
 
 ---
 
